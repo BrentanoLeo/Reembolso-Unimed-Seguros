@@ -6,7 +6,6 @@ keywords:
   - unimed seguros
   - aplicativo
   - saúde
-  - beneficiário
   - solicitação de reembolso
 ---
 
