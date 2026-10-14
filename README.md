@@ -15,7 +15,7 @@ keywords:
 
 Abra o aplicativo Unimed Seguros e informe seu CPF e senha. 
 
-<img width="173" height="350" alt="Tela inicial do aplicativo Unimed Seguros antes do login." src="https://github.com/user-attachments/assets/8aa367f6-0c68-4b57-ba33-61d8f21b9b02" />
+<img width="173" height="350" alt="Tela inicial do aplicativo Unimed Seguros antes do login." src="https://github.com/user-attachments/assets/8188cd6d-41db-473a-9b0a-4a9492287f7a" />
 
 ## Passo 2: Acesse a área de Saúde 
 
