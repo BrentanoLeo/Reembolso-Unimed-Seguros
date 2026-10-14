@@ -9,7 +9,7 @@ keywords:
   - solicitação de reembolso
 ---
 
-# Solicitar um Reembolso pelo Aplticativo
+# Solicitar um Reembolso pelo Aplicativo
 
 ## Passo 1: Faça login 
 
