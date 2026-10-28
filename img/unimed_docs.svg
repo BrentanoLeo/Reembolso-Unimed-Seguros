@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" role="img" aria-label="Documentos organizados">
+  <!-- Shadow/ground -->
+  <ellipse cx="260" cy="345" rx="195" ry="16" fill="#e6f5ee" opacity="0.7"/>
+
+  <!-- Back document (shadow) -->
+  <rect x="175" y="95" width="175" height="230" rx="10" fill="#b3d9c4" transform="rotate(8, 262, 210)"/>
+
+  <!-- Middle document -->
+  <rect x="160" y="88" width="175" height="230" rx="10" fill="#cce9d9" transform="rotate(-4, 247, 203)"/>
+
+  <!-- Front document (main) -->
+  <rect x="148" y="75" width="185" height="245" rx="12" fill="#ffffff" stroke="#d0ead9" stroke-width="2"/>
+
+  <!-- Document header bar -->
+  <rect x="148" y="75" width="185" height="40" rx="12" fill="#00A859"/>
+  <rect x="148" y="100" width="185" height="15" rx="0" fill="#00A859"/>
+
+  <!-- Header icon circle -->
+  <circle cx="172" cy="95" r="12" fill="rgba(255,255,255,0.25)"/>
+  <polyline points="166,95 170,100 179,89" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Header text line -->
+  <rect x="192" y="89" width="100" height="9" rx="4" fill="rgba(255,255,255,0.7)"/>
+  <rect x="192" y="102" width="70" height="7" rx="3" fill="rgba(255,255,255,0.4)"/>
+
+  <!-- Content lines -->
+  <rect x="170" y="136" width="140" height="9" rx="4" fill="#cce9d9"/>
+  <rect x="170" y="152" width="110" height="8" rx="4" fill="#e8f5ef"/>
+
+  <!-- Divider -->
+  <line x1="165" y1="172" x2="315" y2="172" stroke="#e8f5ef" stroke-width="1.5"/>
+
+  <!-- Row with icon 1 -->
+  <rect x="170" y="183" width="10" height="10" rx="2" fill="#00A859"/>
+  <rect x="188" y="184" width="105" height="8" rx="3" fill="#e8f5ef"/>
+  <rect x="188" y="196" width="75" height="7" rx="3" fill="#f0faf5"/>
+
+  <!-- Row with icon 2 -->
+  <rect x="170" y="215" width="10" height="10" rx="2" fill="#00A859"/>
+  <rect x="188" y="216" width="120" height="8" rx="3" fill="#e8f5ef"/>
+  <rect x="188" y="228" width="85" height="7" rx="3" fill="#f0faf5"/>
+
+  <!-- Row with icon 3 -->
+  <rect x="170" y="247" width="10" height="10" rx="2" fill="#b3d9c4"/>
+  <rect x="188" y="248" width="95" height="8" rx="3" fill="#e8f5ef"/>
+  <rect x="188" y="260" width="60" height="7" rx="3" fill="#f0faf5"/>
+
+  <!-- Magnifying glass -->
+  <circle cx="360" cy="270" r="32" fill="none" stroke="#00A859" stroke-width="5"/>
+  <circle cx="360" cy="270" r="22" fill="rgba(0,168,89,0.08)"/>
+  <line x1="382" y1="292" x2="405" y2="318" stroke="#00A859" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Magnifying glass inner lines -->
+  <line x1="349" y1="265" x2="372" y2="265" stroke="#00A859" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+  <line x1="349" y1="273" x2="368" y2="273" stroke="#00A859" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+</svg>
