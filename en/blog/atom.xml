@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog</id>
     <title>Unimed Seguros Knowledge Center Blog</title>
-    <updated>2026-10-14T00:00:00.000Z</updated>
+    <updated>2026-10-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog"/>
     <subtitle>Unimed Seguros Knowledge Center Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Unimed Chatbot]]></title>
         <id>https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog/chat-bot</id>
         <link href="https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog/chat-bot"/>
-        <updated>2026-10-14T00:00:00.000Z</updated>
+        <updated>2026-10-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Chatbot UNIMED Seguros: Uma proposta de Maximização de KPIs com Precisão e Efetividade]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="chatbot-unimed-seguros-uma-proposta-de-maximização-de-kpis-com-precisão-e-efetividade">Chatbot UNIMED Seguros: Uma proposta de Maximização de KPIs com Precisão e Efetividade<a href="https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog/chat-bot#chatbot-unimed-seguros-uma-proposta-de-maximiza%C3%A7%C3%A3o-de-kpis-com-precis%C3%A3o-e-efetividade" class="hash-link" aria-label="Direct link to Chatbot UNIMED Seguros: Uma proposta de Maximização de KPIs com Precisão e Efetividade" title="Direct link to Chatbot UNIMED Seguros: Uma proposta de Maximização de KPIs com Precisão e Efetividade" translate="no">​</a></h2>
 <p>Os <strong>chatbots com IA aplicados à saúde</strong> vêm se tornando um dos principais habilitadores da transformação digital no setor. Quando projetados com foco em <strong>precisão, segurança e experiência do paciente</strong>, eles impactam diretamente indicadores operacionais, financeiros e assistenciais.</p>
@@ -261,38 +261,6 @@ Um único ponto de entrada para todos os serviços.</p>
             <name>Leonardo Brentano</name>
         </author>
         <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog/welcome</id>
-        <link href="https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer" class="">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer" class="">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<!-- -->
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li class=""><code>2019-05-30-welcome.md</code></li>
-<li class=""><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://brentanoleo.github.io/Reembolso-Unimed-Seguros/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Facebook" term="Facebook"/>
-        <category label="Hello" term="Hello"/>
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
 </feed>
