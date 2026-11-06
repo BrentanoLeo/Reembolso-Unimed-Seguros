@@ -1,0 +1,75 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #00A859;
+  --ifm-color-primary-dark: #009750;
+  --ifm-color-primary-darker: #008644;
+  --ifm-color-primary-darkest: #006a36;
+  --ifm-color-primary-light: #00bb63;
+  --ifm-color-primary-lighter: #00cc6d;
+  --ifm-color-primary-lightest: #1ad67d;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 168, 89, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #4dce8a;
+  --ifm-color-primary-dark: #33c47a;
+  --ifm-color-primary-darker: #1ab86a;
+  --ifm-color-primary-darkest: #00A859;
+  --ifm-color-primary-light: #66d899;
+  --ifm-color-primary-lighter: #80e2a9;
+  --ifm-color-primary-lightest: #99ecba;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Make main a flex column so features section fills the available height */
+main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Center footer link columns side by side */
+.footer__links {
+  justify-content: center;
+  gap: 6rem;
+}
+
+.footer__col {
+  text-align: center;
+}
+
+/* Navbar subtitle */
+.navbar__subtitle {
+  color: #888;
+  font-size: 0.88rem;
+  font-weight: 400;
+  margin-left: 0.5rem;
+}
+
+/* Navbar CTA button */
+.navbar__cta {
+  border: 1.5px solid var(--ifm-color-primary);
+  border-radius: 6px;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ifm-color-primary) !important;
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.navbar__cta:hover {
+  background: var(--ifm-color-primary);
+  color: #fff !important;
+}

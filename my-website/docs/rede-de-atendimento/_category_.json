@@ -1,0 +1,8 @@
+{
+  "label": "Rede de atendimento",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Saiba como pesquisar prestadores pelo aplicativo."
+  }
+}

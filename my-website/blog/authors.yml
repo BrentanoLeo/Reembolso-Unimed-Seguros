@@ -1,0 +1,33 @@
+yangshun:
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
+
+brentano:
+  name: Leonardo Brentano
+  title: UX Analyst
+  image_url: https://media.licdn.com/dms/image/v2/D4D03AQEBZRTk4dvRlQ/profile-displayphoto-shrink_200_200/B4DZct5QQwG8Ac-/0/1748821674113?e=2147483647&v=beta&t=-2BKxTAOezc53nJS4n6mqGPrucE0R8ld5EqXfqkBcxg
+  socials: 
+    linkedin: https://www.linkedin.com/in/leonardo-silva-brentano-1a8816197/
+    github: https://github.com/BrentanoLeo

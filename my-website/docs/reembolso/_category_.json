@@ -1,0 +1,8 @@
+{
+  "label": "Reembolso",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Oriente-se para enviar e acompanhar uma solicitação de reembolso."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sidebar.tutorialSidebar.category.Acesso e cadastro": { "message": "Access and registration" },
+  "sidebar.tutorialSidebar.category.Reembolso": { "message": "Reimbursement" },
+  "sidebar.tutorialSidebar.category.Carteirinha e plano": { "message": "Health card and plan" },
+  "sidebar.tutorialSidebar.category.Rede de atendimento": { "message": "Provider network" },
+  "sidebar.tutorialSidebar.category.Documentos e solicitações": { "message": "Documents and requests" },
+  "sidebar.tutorialSidebar.category.Configurações e soluções": { "message": "Settings and solutions" },
+  "sidebar.tutorialSidebar.category.Unimed Seguros": { "message": "Unimed Seguros" },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": { "message": "Tutorial - Basics" },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": { "message": "Tutorial - Extras" }
+}
